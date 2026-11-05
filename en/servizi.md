@@ -7,23 +7,15 @@ ref: servizi
 lang: en
 locale: en
 tr: tradotto
-tr_hash: y8opd4
+tr_hash: 1f3dg7m
 permalink: /en/services/
 ---
 
 Works for condominiums, private clients and industry professionals: from the site inspection to the complete execution of the works.
 
 ## For condominiums, private clients and industry professionals
-- [Safety works and repairs]({{ '/en/services/safety-works-and-repairs/' | relative_url }})
-- [Rope-access building works]({{ '/en/services/rope-access-building-works/' | relative_url }})
-- [Terrace and balcony renovation]({{ '/en/services/terrace-and-balcony-renovation/' | relative_url }})
-- [Waterproofing]({{ '/en/services/waterproofing/' | relative_url }})
-- [Maintenance of roofs, roofing and gutters]({{ '/en/services/roof-and-gutter-maintenance/' | relative_url }})
-- [Condominium maintenance]({{ '/en/services/condominium-maintenance/' | relative_url }})
-- [Residential and commercial renovation]({{ '/en/services/residential-and-commercial-renovation/' | relative_url }})
-- [Facade restoration]({{ '/en/services/facade-restoration/' | relative_url }})
-- [Technical reports and photographic reports]({{ '/en/services/technical-reports-and-photographic-reports/' | relative_url }})
-- [Technical drone surveys]({{ '/en/services/technical-drone-surveys/' | relative_url }})
+
+{% include ex-lista.html coll="servizi" ord="ordine" vista="riga" lang="en" cta="Discover the service" %}
 
 ## How a job works
 1. **Site inspection**: we check the property, drone included.
