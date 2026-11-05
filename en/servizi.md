@@ -7,7 +7,7 @@ ref: servizi
 lang: en
 locale: en
 tr: tradotto
-tr_hash: 1f3dg7m
+tr_hash: 15alr2i
 permalink: /en/services/
 ---
 
@@ -15,7 +15,7 @@ Works for condominiums, private clients and industry professionals: from the sit
 
 ## For condominiums, private clients and industry professionals
 
-{% include ex-lista.html coll="servizi" ord="ordine" vista="riga" lang="en" cta="Discover the service" %}
+{% include servizi-righe.html lang="en" cta="Discover the service" %}
 
 ## How a job works
 1. **Site inspection**: we check the property, drone included.

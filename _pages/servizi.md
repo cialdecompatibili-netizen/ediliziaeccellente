@@ -11,7 +11,7 @@ Interventi per condomini, privati e professionisti del settore: dal sopralluogo 
 
 ## Per condomini, privati e professionisti del settore
 
-{% include ex-lista.html coll="servizi" ord="ordine" vista="riga" cta="Scopri il servizio" %}
+{% include servizi-righe.html cta="Scopri il servizio" %}
 
 ## Come si svolge un incarico
 1. **Sopralluogo**: verifichiamo lo stato dell'immobile, anche con drone.

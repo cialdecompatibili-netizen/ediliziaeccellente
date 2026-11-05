@@ -3,7 +3,6 @@ GUIDA-SVILUPPO: ELENCO di una collection (servizi, progetti...). Parametri: coll
 Le foto delle righe arrivano da _data/foto.yml scegliendo il tema della pagina (_data/foto_temi.yml, slug -> tema); se manca usa il tema "team". Stili in <style> qui dentro.
 {%- endcomment -%}
 {% assign items = site[include.coll] | sort: include.ord %}
-{% if include.lang == "en" %}{% assign items = items | where: "lang", "en" %}{% else %}{% assign items = items | where_exp: "x", "x.lang != 'en'" %}{% endif %}
 {% if include.vista == "riga" %}
 <style>
 .exr{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:1.5rem}
