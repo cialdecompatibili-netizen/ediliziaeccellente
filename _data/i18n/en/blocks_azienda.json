@@ -1,14 +1,14 @@
 [
   {
     "id": "chi",
-    "nome": "About us",
+    "nome": "Chi siamo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">About us</p><h2 class=\"gc-h2\">Title of the introduction</h2><p class=\"gc-lead\">Who you are, what you do and for whom.</p><p>One more paragraph about how you work.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">About us</p><h2 class=\"gc-h2\">Trust is built on concrete results</h2><p class=\"gc-lead\">We are the go-to company for anyone who wants to renovate and enhance their property.</p><p>With qualified craftsmen and a structured organisation, we follow every stage of the work, from the site inspection to the complete execution of the works. We work for condominiums, private clients and industry professionals.</p></div></section></div>"
   },
   {
     "id": "principi",
-    "nome": "Principles",
+    "nome": "Principi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">How we behave</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>First principle</b><p>Short description.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Second principle</b><p>Short description.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Third principle</b><p>Short description.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">How we work</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Qualified craftsmen</b><p>Skilled people at every stage of the job.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Structured organisation</b><p>Every job is followed from start to finish.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Concrete results</b><p>We document the work with reports and photographic reports.</p></div></div></div></section></div>"
   }
 ]

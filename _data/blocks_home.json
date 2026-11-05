@@ -3,42 +3,42 @@
     "id": "hero",
     "nome": "Hero",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Il tuo settore, in due parole</p><h1 class=\"gc-h1\">Dì in una riga cosa fai, <em>senza giri di parole.</em></h1><p class=\"gc-lead\">Racconta in due righe chi sei, che problema risolvi e per chi. Scrivila come la diresti a voce a un cliente: semplice e diretta.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/contatti/\">Scrivici</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/servizi/\">Vedi cosa facciamo</a></div></div><div class=\"ent-cycle\"><div><b>Ci racconti cosa ti serve</b><span>Senza impegno, anche solo per capire da dove partire</span></div><div><b>Ti proponiamo una soluzione</b><span>Chiara, con tempi e costi detti prima</span></div><div><b>Ci mettiamo al lavoro</b><span>Ti aggiorniamo a ogni passaggio</span></div><div><b>Consegna e assistenza</b><span>Restiamo a disposizione anche dopo</span></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Edilizia Eccellente</p><h1 class=\"gc-h1\">La fiducia si costruisce <em>con risultati concreti.</em></h1><p class=\"gc-lead\">Siamo l&#39;azienda di riferimento per chi desidera riqualificare e valorizzare il proprio patrimonio immobiliare. Grazie a maestranze qualificate e a un&#39;organizzazione strutturata, seguiamo ogni fase del lavoro, dal sopralluogo alla completa realizzazione delle opere.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/contatti/\">Richiedi un sopralluogo</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/servizi/\">I nostri servizi</a></div></div><div class=\"ent-cycle\"><div><b>Sopralluogo</b><span>Anche con drone, per vedere ogni punto critico</span></div><div><b>Relazione tecnica</b><span>Con report fotografico dello stato dei luoghi</span></div><div><b>Intervento</b><span>Maestranze qualificate, anche su fune</span></div><div><b>Opere complete</b><span>Seguiamo ogni fase fino alla realizzazione</span></div></div></div></section></div>"
   },
   {
     "id": "contesto",
     "nome": "Il contesto",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"contesto\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Qualche numero</p><h2 class=\"gc-h2\">Perché è un tema che conta</h2><p class=\"gc-lead\">Una frase che spiega il contesto, con un dato vero e la sua fonte. Se non ne hai, togli questa fascia.</p><div class=\"ent-stats\"><div><b>00</b><span>Dato da inserire</span></div><div><b>00</b><span>Dato da inserire</span></div><div><b>00</b><span>Dato da inserire</span></div></div><p class=\"ent-src\">Fonte: scrivi da dove arriva il dato.</p></div></section></div>"
+    "enabled": false,
+    "html": "<div class=\"gc\"></div>"
   },
   {
     "id": "servizi",
     "nome": "Servizi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"servizi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Cosa facciamo</p><h2 class=\"gc-h2\">Come possiamo darti una mano</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>Il servizio principale</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>Un secondo servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>Un terzo servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">04</span><b>Un quarto servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-link\" href=\"__BASEURL__/servizi/\">Guarda tutti i servizi</a></p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"servizi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">I nostri servizi</p><h2 class=\"gc-h2\">Per condomini, privati e professionisti del settore</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>Messe in sicurezza e ripristini</b></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>Interventi edili su fune</b></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>Rifacimento terrazzi e balconi</b></div><div class=\"gc-pl ent-pl\"><span class=\"n\">04</span><b>Impermeabilizzazioni</b></div><div class=\"gc-pl ent-pl\"><span class=\"n\">05</span><b>Manutenzione coperture, tetti e gronde</b></div><div class=\"gc-pl ent-pl\"><span class=\"n\">06</span><b>Manutenzioni condominiali</b></div><div class=\"gc-pl ent-pl\"><span class=\"n\">07</span><b>Ristrutturazioni civili e commerciali</b></div><div class=\"gc-pl ent-pl\"><span class=\"n\">08</span><b>Ripristino facciate</b></div><div class=\"gc-pl ent-pl\"><span class=\"n\">09</span><b>Relazioni tecniche e report fotografici</b></div><div class=\"gc-pl ent-pl\"><span class=\"n\">10</span><b>Sopralluoghi tecnici con drone</b></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-link\" href=\"__BASEURL__/servizi/\">Vedi tutti i servizi</a></p></div></section></div>"
   },
   {
     "id": "perchi",
     "nome": "Per chi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"perchi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">A chi ci rivolgiamo</p><h2 class=\"gc-h2\">Chi si trova bene con noi</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><b>Privati</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Professionisti</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Piccole aziende</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Enti e associazioni</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"perchi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Per chi lavoriamo</p><h2 class=\"gc-h2\">A chi ci rivolgiamo</h2><div class=\"gc-plat\"><div class=\"gc-pl ent-pl\"><b>Condomini</b><p>Manutenzioni, facciate, balconi, coperture e messe in sicurezza.</p></div><div class=\"gc-pl ent-pl\"><b>Privati</b><p>Ristrutturazioni e riqualificazione del proprio immobile.</p></div><div class=\"gc-pl ent-pl\"><b>Professionisti del settore</b><p>Relazioni tecniche, report fotografici e sopralluoghi con drone.</p></div></div></div></section></div>"
   },
   {
     "id": "metodo",
-    "nome": "Come lavoriamo",
+    "nome": "Metodo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"metodo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Come lavoriamo</p><h2 class=\"gc-h2\">Dalla prima chiamata alla consegna</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl\"><span class=\"n\">01</span><b>Ci parliamo</b><p>Ascoltiamo cosa ti serve, senza impegno.</p></div><div class=\"gc-pl\"><span class=\"n\">02</span><b>Ti facciamo una proposta</b><p>Tempi e costi chiari, prima di iniziare.</p></div><div class=\"gc-pl\"><span class=\"n\">03</span><b>Ci mettiamo al lavoro</b><p>Ti teniamo aggiornato a ogni passaggio.</p></div><div class=\"gc-pl\"><span class=\"n\">04</span><b>Consegniamo e restiamo a disposizione</b><p>Se dopo serve qualcosa, ci trovi.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"metodo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Come lavoriamo</p><h2 class=\"gc-h2\">Dal sopralluogo alla realizzazione delle opere</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl\"><span class=\"n\">01</span><b>Sopralluogo</b><p>Verifichiamo lo stato dell&#39;immobile, anche con drone.</p></div><div class=\"gc-pl\"><span class=\"n\">02</span><b>Relazione tecnica</b><p>Documentiamo tutto con report fotografico.</p></div><div class=\"gc-pl\"><span class=\"n\">03</span><b>Preventivo</b><p>Una proposta chiara prima di iniziare.</p></div><div class=\"gc-pl\"><span class=\"n\">04</span><b>Realizzazione</b><p>Seguiamo ogni fase fino alla completa realizzazione.</p></div></div></div></section></div>"
   },
   {
     "id": "avvisi",
-    "nome": "Blog",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"avvisi\"><div class=\"gc-wrap gc-2c\"><div><p class=\"gc-eyebrow\">Dal blog</p><h2 class=\"gc-h2\">Cose che ti possono servire</h2><p class=\"gc-lead\">Guide brevi e novità, scritte in modo semplice.</p><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/blog/\">Vai al blog</a></div><div class=\"gc-pl\"><span class=\"n\">ULTIMO ARTICOLO</span><b>Il titolo del tuo ultimo articolo</b><p>Due righe per far venire voglia di leggerlo.</p></div></div></section></div>"
+    "nome": "Avvisi",
+    "enabled": false,
+    "html": "<div class=\"gc\"></div>"
   },
   {
     "id": "contatti",
     "nome": "Contatti",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"contatti\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contatti</p><h2 class=\"gc-h2\">Scriviamoci</h2><p class=\"gc-lead\">Raccontaci di cosa hai bisogno, ti rispondiamo appena possibile.</p><a class=\"gc-btn\" href=\"__BASEURL__/contatti/\">Scrivici</a></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"contatti\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contatti</p><h2 class=\"gc-h2\">Richiedi un sopralluogo</h2><p class=\"gc-lead\">Raccontaci cosa ti serve: ti ricontattiamo per fissare il sopralluogo.</p><a class=\"gc-btn\" href=\"__BASEURL__/contatti/\">Scrivici</a></div></section></div>"
   }
 ]

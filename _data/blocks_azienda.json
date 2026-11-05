@@ -3,12 +3,12 @@
     "id": "chi",
     "nome": "Chi siamo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Chi siamo</p><h2 class=\"gc-h2\">Titolo della presentazione</h2><p class=\"gc-lead\">Chi siete, cosa fate e per chi.</p><p>Un paragrafo in più su come lavorate.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Chi siamo</p><h2 class=\"gc-h2\">La fiducia si costruisce con risultati concreti</h2><p class=\"gc-lead\">Siamo l&#39;azienda di riferimento per chi desidera riqualificare e valorizzare il proprio patrimonio immobiliare.</p><p>Grazie a maestranze qualificate e a un&#39;organizzazione strutturata, seguiamo ogni fase del lavoro, dal sopralluogo alla completa realizzazione delle opere. Lavoriamo per condomini, privati e professionisti del settore.</p></div></section></div>"
   },
   {
     "id": "principi",
     "nome": "Principi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Come ci comportiamo</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Primo principio</b><p>Descrizione breve.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Secondo principio</b><p>Descrizione breve.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Terzo principio</b><p>Descrizione breve.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Come lavoriamo</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Maestranze qualificate</b><p>Persone competenti in ogni fase del cantiere.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Organizzazione strutturata</b><p>Ogni lavoro &#232; seguito dall&#39;inizio alla fine.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Risultati concreti</b><p>Documentiamo gli interventi con relazioni e report fotografici.</p></div></div></div></section></div>"
   }
 ]

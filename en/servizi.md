@@ -1,27 +1,34 @@
 ---
 layout: single
 title: "Services"
-description: "Our services."
+description: "Edilizia Eccellente: safety works, rope access, terraces and balconies, waterproofing, roofs, facades, renovations and drone surveys."
 author_profile: false
 ref: servizi
 lang: en
 locale: en
 tr: tradotto
-tr_hash: u3h8wh
+tr_hash: tbfobc
 permalink: /en/services/
 ---
 
-One sentence introducing the services. State prices and conditions only if they are real.
+Works for condominiums, private clients and industry professionals: from the site inspection to the complete execution of the works.
 
-## First service
-Description of the first service: what it includes and who it is for.
+## For condominiums, private clients and industry professionals
+- Safety works and repairs
+- Rope-access building works
+- Terrace and balcony renovation
+- Waterproofing
+- Maintenance of roofs, roofing and gutters
+- Condominium maintenance
+- Residential and commercial renovation
+- Facade restoration
+- Technical reports and photographic reports
+- Technical drone surveys
 
-## Second service
-Description of the second service.
+## How a job works
+1. **Site inspection**: we check the property, drone included.
+2. **Technical report**: documented with a photographic report.
+3. **Quote**: a clear proposal before we start.
+4. **Execution**: we follow every stage of the works.
 
-## How an engagement works
-1. **First step**: description.
-2. **Second step**: description.
-3. **Third step**: description.
-
-[Contact us]({{ '/en/contact/' | relative_url }}){: .btn .btn--primary}
+[Request a site inspection]({{ '/en/contact/' | relative_url }}){: .btn .btn--primary}
