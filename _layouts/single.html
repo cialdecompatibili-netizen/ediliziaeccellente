@@ -28,7 +28,7 @@ PER CAMBIARE COSA COMPARE usa il front matter della pagina (header, share, relat
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main"{% if page.collection == "posts" %} class="has-postside"{% endif %}>
+<div id="main" role="main"{% if page.collection == "posts" or page.collection == "servizi" %} class="has-postside"{% endif %}>
   {% include sidebar.html locale=locale %}
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
@@ -103,7 +103,7 @@ PER CAMBIARE COSA COMPARE usa il front matter della pagina (header, share, relat
     {% endif %}
   </article>
 
-  {% if page.collection == "posts" %}{% include post-sidebar.html %}{% endif %}
+  {% if page.collection == "posts" or page.collection == "servizi" %}{% include post-sidebar.html %}{% endif %}
 
   {% if page.id and page.related and site.related_posts.size > 0 %}
     {% include page__related.html locale=locale posts=site.related_posts %}

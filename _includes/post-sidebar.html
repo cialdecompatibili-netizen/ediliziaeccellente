@@ -28,7 +28,7 @@ Gli stili stanno qui dentro in <style> con !important perche' devono vincere sul
 .ps-about-body p{margin:0 0 .8rem;font-size:.92rem;line-height:1.65;color:#5b5650}
 .ps-link{font-size:.82rem;font-weight:600;color:#c8102e;text-decoration:none;border-bottom:1px solid #e693a1;padding-bottom:2px}
 .ps-link:hover{color:#141414;border-color:#141414}
-.ps-search{width:100%;display:flex;align-items:center;justify-content:space-between;gap:.6rem;padding:.8rem 1.1rem;border:1px solid #e9e3d9;border-radius:999px;background:#fff;color:#7a746b;font:inherit;font-size:.92rem;cursor:pointer;transition:border-color .2s}
+.ps-search{width:100%;display:flex;align-items:center;justify-content:space-between;gap:.6rem;padding:.45rem .9rem;border:1px solid #e9e3d9;border-radius:999px;background:#fff;color:#7a746b;font:inherit;font-size:.85rem;cursor:pointer;transition:border-color .2s}
 .ps-search:hover{border-color:#e693a1}
 .ps-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:.85rem}
 .ps-list li{margin:0;padding:0}
@@ -52,6 +52,7 @@ Gli stili stanno qui dentro in <style> con !important perche' devono vincere sul
 </style>
 {%- assign sb = site.data.sidebar -%}
 <aside class="ps" aria-label="Barra laterale">
+  <button type="button" class="ps-search" onclick="var t=document.querySelector('.search__toggle');if(t){t.click();}">Cerca nel Blog <span aria-hidden="true">&#128269;</span></button>
   {%- if sb.foto != blank %}
   <section class="ps-card ps-about">
     <img src="{{ sb.foto | relative_url }}" alt="{{ sb.titolo | escape }}" loading="lazy">
@@ -63,5 +64,4 @@ Gli stili stanno qui dentro in <style> con !important perche' devono vincere sul
   </section>
   {%- endif %}
 
-  <button type="button" class="ps-search" onclick="var t=document.querySelector('.search__toggle');if(t){t.click();}">Cerca nel Blog <span aria-hidden="true">&#128269;</span></button>
 </aside>
