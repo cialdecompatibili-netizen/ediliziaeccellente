@@ -6,7 +6,7 @@ ref: servizio-sopralluoghi-tecnici-su-fune
 icona: "🔍"
 immagine: "/assets/images/servizi/sopralluoghi-tecnici-su-fune.webp"
 excerpt: "Ispezioniamo da vicino le parti dell'edificio difficili da raggiungere, senza ponteggi. Individuiamo distacchi, fessurazioni e criticità e li documentiamo con foto e relazione descrittiva."
-seo_description: "Sopralluoghi tecnici su fune: Ispezioni in quota di facciate, balconi, coperture e gronde. EDIL CRAMOR."
+seo_description: "Sopralluoghi tecnici su fune: Ispezioni in quota di facciate, balconi, coperture e gronde. Edilizia Eccellente."
 ---
 
 Ispezioniamo da vicino le parti dell'edificio difficili da raggiungere, senza ponteggi. Individuiamo distacchi, fessurazioni e criticità e li documentiamo con foto e relazione descrittiva.

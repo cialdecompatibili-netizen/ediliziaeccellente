@@ -9,7 +9,7 @@
     "id": "contesto",
     "nome": "Messaggio aziendale",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"messaggio\"><div class=\"gc-wrap ec-msg\"><p class=\"gc-eyebrow\">EDIL CRAMOR</p><h2 class=\"gc-h2\">A single point of contact for the maintenance, upgrading and enhancement of real estate.</h2><p class=\"gc-lead\">EDIL CRAMOR is the single reference for managing and carrying out building works, from the first assessment to completion. Professionalism, reliability and organisation in managing contracts, with a complete range of services.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"messaggio\"><div class=\"gc-wrap ec-msg\"><p class=\"gc-eyebrow\">Edilizia Eccellente</p><h2 class=\"gc-h2\">A single point of contact for the maintenance, upgrading and enhancement of real estate.</h2><p class=\"gc-lead\">Edilizia Eccellente is the single reference for managing and carrying out building works, from the first assessment to completion. Professionalism, reliability and organisation in managing contracts, with a complete range of services.</p></div></section></div>"
   },
   {
     "id": "servizi",

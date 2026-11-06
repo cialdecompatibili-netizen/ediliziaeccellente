@@ -8,7 +8,7 @@ immagine: "/assets/images/servizi/interventi-edili-su-fune.webp"
 lang: en
 locale: en
 excerpt: "We work at height with rope access, where scaffolding would take too long or cost too much. The method is fast, targeted and suited to localised works on buildings of any height."
-seo_description: "Rope-access building works: Facades, cornices and gutters at height, no scaffolding. EDIL CRAMOR."
+seo_description: "Rope-access building works: Facades, cornices and gutters at height, no scaffolding. Edilizia Eccellente."
 ---
 
 We work at height with rope access, where scaffolding would take too long or cost too much. The method is fast, targeted and suited to localised works on buildings of any height.

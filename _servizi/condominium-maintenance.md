@@ -8,7 +8,7 @@ immagine: "/assets/images/servizi/manutenzioni-condominiali.webp"
 lang: en
 locale: en
 excerpt: "Looking after a condominium means orderly, documented works that can be shared with the manager and owners. We offer a structured organisation and a single point of contact for every work on common areas."
-seo_description: "Condominium maintenance: Common areas, stairs, garages, courtyards and technical rooms. EDIL CRAMOR."
+seo_description: "Condominium maintenance: Common areas, stairs, garages, courtyards and technical rooms. Edilizia Eccellente."
 ---
 
 Looking after a condominium means orderly, documented works that can be shared with the manager and owners. We offer a structured organisation and a single point of contact for every work on common areas.

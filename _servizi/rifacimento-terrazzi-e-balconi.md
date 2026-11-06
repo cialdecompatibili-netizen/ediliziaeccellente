@@ -6,7 +6,7 @@ ref: servizio-rifacimento-terrazzi-e-balconi
 icona: "🧱"
 immagine: "/assets/images/servizi/rifacimento-terrazzi-e-balconi.webp"
 excerpt: "Terrazzi e balconi sono tra le parti più esposte agli agenti atmosferici. Rifacciamo l'intera stratigrafia, dal massetto alla finitura, per garantire durata, sicurezza e tenuta all'acqua."
-seo_description: "Rifacimento terrazzi e balconi: Massetti, pavimentazioni, parapetti e impermeabilizzazioni. EDIL CRAMOR."
+seo_description: "Rifacimento terrazzi e balconi: Massetti, pavimentazioni, parapetti e impermeabilizzazioni. Edilizia Eccellente."
 ---
 
 Terrazzi e balconi sono tra le parti più esposte agli agenti atmosferici. Rifacciamo l'intera stratigrafia, dal massetto alla finitura, per garantire durata, sicurezza e tenuta all'acqua.

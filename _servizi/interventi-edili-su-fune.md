@@ -6,7 +6,7 @@ ref: servizio-interventi-edili-su-fune
 icona: "🧗"
 immagine: "/assets/images/servizi/interventi-edili-su-fune.webp"
 excerpt: "Lavoriamo in quota con accesso su fune, dove un ponteggio sarebbe troppo lungo o costoso da montare. Il metodo è rapido, mirato e adatto agli interventi localizzati su edifici di ogni altezza."
-seo_description: "Interventi edili su fune: Facciate, cornicioni e gronde in quota, senza ponteggi. EDIL CRAMOR."
+seo_description: "Interventi edili su fune: Facciate, cornicioni e gronde in quota, senza ponteggi. Edilizia Eccellente."
 ---
 
 Lavoriamo in quota con accesso su fune, dove un ponteggio sarebbe troppo lungo o costoso da montare. Il metodo è rapido, mirato e adatto agli interventi localizzati su edifici di ogni altezza.

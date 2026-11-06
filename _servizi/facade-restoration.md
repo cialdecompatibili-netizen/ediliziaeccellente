@@ -8,7 +8,7 @@ immagine: "/assets/images/servizi/ripristino-facciate.webp"
 lang: en
 locale: en
 excerpt: "The facade protects the building and defines its look. When plaster and cladding deteriorate, we step in to stop the decay, remove damaged parts and make the surface safe and tidy again."
-seo_description: "Facade renewal and restoration: Facades, balcony edges, cornices and balconies. EDIL CRAMOR."
+seo_description: "Facade renewal and restoration: Facades, balcony edges, cornices and balconies. Edilizia Eccellente."
 ---
 
 The facade protects the building and defines its look. When plaster and cladding deteriorate, we step in to stop the decay, remove damaged parts and make the surface safe and tidy again.

@@ -8,7 +8,7 @@ immagine: "/assets/images/servizi/messe-in-sicurezza-e-ripristini.webp"
 lang: en
 locale: en
 excerpt: "When part of a building risks falling or is already damaged, we step in quickly to remove the danger and then restore what was taken away."
-seo_description: "Safety works and repairs: Urgent works on facades, balconies and cornices. EDIL CRAMOR."
+seo_description: "Safety works and repairs: Urgent works on facades, balconies and cornices. Edilizia Eccellente."
 ---
 
 When part of a building risks falling or is already damaged, we step in quickly to remove the danger and then restore what was taken away.

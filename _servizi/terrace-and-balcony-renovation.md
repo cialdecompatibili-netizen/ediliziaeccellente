@@ -8,7 +8,7 @@ immagine: "/assets/images/servizi/rifacimento-terrazzi-e-balconi.webp"
 lang: en
 locale: en
 excerpt: "Terraces and balconies are among the parts most exposed to the weather. We rebuild the whole layer structure, from screed to finish, for durability, safety and water tightness."
-seo_description: "Terrace and balcony renovation: Screeds, flooring, parapets and waterproofing. EDIL CRAMOR."
+seo_description: "Terrace and balcony renovation: Screeds, flooring, parapets and waterproofing. Edilizia Eccellente."
 ---
 
 Terraces and balconies are among the parts most exposed to the weather. We rebuild the whole layer structure, from screed to finish, for durability, safety and water tightness.

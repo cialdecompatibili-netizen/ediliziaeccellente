@@ -9,7 +9,7 @@
     "id": "contesto",
     "nome": "Messaggio aziendale",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"messaggio\"><div class=\"gc-wrap ec-msg\"><p class=\"gc-eyebrow\">EDIL CRAMOR</p><h2 class=\"gc-h2\">Un unico interlocutore per la manutenzione, la riqualificazione e la valorizzazione del patrimonio immobiliare.</h2><p class=\"gc-lead\">EDIL CRAMOR è il punto di riferimento per la gestione e la realizzazione di interventi edili, dalla valutazione iniziale fino al completamento delle opere. Professionalità, affidabilità e organizzazione nella gestione delle commesse, con un'offerta di servizi completa.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"messaggio\"><div class=\"gc-wrap ec-msg\"><p class=\"gc-eyebrow\">Edilizia Eccellente</p><h2 class=\"gc-h2\">Un unico interlocutore per la manutenzione, la riqualificazione e la valorizzazione del patrimonio immobiliare.</h2><p class=\"gc-lead\">Edilizia Eccellente è il punto di riferimento per la gestione e la realizzazione di interventi edili, dalla valutazione iniziale fino al completamento delle opere. Professionalità, affidabilità e organizzazione nella gestione delle commesse, con un'offerta di servizi completa.</p></div></section></div>"
   },
   {
     "id": "servizi",

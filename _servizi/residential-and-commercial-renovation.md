@@ -8,7 +8,7 @@ immagine: "/assets/images/servizi/ristrutturazioni-civili-e-commerciali.webp"
 lang: en
 locale: en
 excerpt: "We renovate flats, houses, shops and offices, from a single room to the whole building. We carry out the required building works and coordinate specialist trades, so the client has a single point of contact from start to finish."
-seo_description: "Renovations and building works: Full and partial renovations, residential and commercial. EDIL CRAMOR."
+seo_description: "Renovations and building works: Full and partial renovations, residential and commercial. Edilizia Eccellente."
 ---
 
 We renovate flats, houses, shops and offices, from a single room to the whole building. We carry out the required building works and coordinate specialist trades, so the client has a single point of contact from start to finish.

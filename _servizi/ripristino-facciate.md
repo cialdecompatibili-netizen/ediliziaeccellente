@@ -6,7 +6,7 @@ ref: servizio-ripristino-facciate
 icona: "🏢"
 immagine: "/assets/images/servizi/ripristino-facciate.webp"
 excerpt: "La facciata protegge l'edificio e ne definisce l'immagine. Quando intonaci e rivestimenti si degradano, interveniamo per fermare il deterioramento, rimuovere le parti ammalorate e riportare la superficie in sicurezza e in ordine."
-seo_description: "Rifacimento e ripristino facciate: Facciate, frontalini, cornicioni e balconi. EDIL CRAMOR."
+seo_description: "Rifacimento e ripristino facciate: Facciate, frontalini, cornicioni e balconi. Edilizia Eccellente."
 ---
 
 La facciata protegge l'edificio e ne definisce l'immagine. Quando intonaci e rivestimenti si degradano, interveniamo per fermare il deterioramento, rimuovere le parti ammalorate e riportare la superficie in sicurezza e in ordine.

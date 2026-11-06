@@ -6,7 +6,7 @@ ref: servizio-messe-in-sicurezza-e-ripristini
 icona: "🦺"
 immagine: "/assets/images/servizi/messe-in-sicurezza-e-ripristini.webp"
 excerpt: "Quando una parte dell'edificio rischia di cadere o è già danneggiata, interveniamo con rapidità per eliminare il pericolo e poi ripristinare ciò che è stato rimosso."
-seo_description: "Messe in sicurezza e ripristini: Interventi urgenti su facciate, balconi e cornicioni. EDIL CRAMOR."
+seo_description: "Messe in sicurezza e ripristini: Interventi urgenti su facciate, balconi e cornicioni. Edilizia Eccellente."
 ---
 
 Quando una parte dell'edificio rischia di cadere o è già danneggiata, interveniamo con rapidità per eliminare il pericolo e poi ripristinare ciò che è stato rimosso.
