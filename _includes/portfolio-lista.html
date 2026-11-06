@@ -1,0 +1,38 @@
+{%- comment -%}
+  PORTFOLIO: lista lavori nello stesso stile delle card del blog (foto a filo, TUTTA la card cliccabile con stretched link).
+  Legge _data/portfolio.yml, testi nella lingua della pagina (it/en). Link = pagina servizio con quel ref (url-ref.html).
+  Impaginazione: data-pg / data-pg-item letti da assets/js/paginazione.js (per_page in _config.yml). NON annidare altri <a>.
+{%- endcomment -%}
+{%- assign pf_lang = page.lang | default: "it" -%}
+<style>
+.pf-list{list-style:none;margin:1.2rem 0 0;padding:0;display:flex;flex-direction:column;gap:.25rem}
+.pf-item{position:relative;display:flex;gap:1.1rem;align-items:stretch;padding:0;overflow:hidden;background:#fff;border:1px solid var(--gc-line,#e6e8ee);border-radius:14px;transition:border-color .2s,box-shadow .2s,transform .2s}
+.pf-item:hover,.pf-item:focus-within{border-color:var(--gc-acc,#c8102e);box-shadow:0 0 0 1px var(--gc-acc,#c8102e),0 0 18px 2px color-mix(in srgb,var(--gc-acc,#c8102e) 45%,transparent),0 8px 24px rgba(30,40,80,.12);transform:translateY(-1px)}
+.pf-img{position:relative;flex:0 0 clamp(240px,38%,400px);min-height:200px;overflow:hidden;background:var(--gc-acc-s,#fbecee)}
+.pf-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;transition:transform .5s ease}
+.pf-item:hover .pf-img img{transform:scale(1.05)}
+.pf-body{flex:1;min-width:0;display:flex;flex-direction:column;justify-content:center;gap:.3rem;padding:.9rem 0}
+.pf-cat{align-self:flex-start;font-size:.66rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--gc-acc,#c8102e);background:var(--gc-acc-s,#fbecee);border-radius:999px;padding:2px 10px}
+.pf-title{font-family:var(--gc-head,inherit);font-size:clamp(1rem,1.8vw,1.2rem);font-weight:700;line-height:1.25;color:var(--gc-ink,#0e1116);text-decoration:none!important}
+.pf-title::after{content:"";position:absolute;inset:0;z-index:1;border-radius:14px}
+.pf-title:focus-visible{outline:none}.pf-title:focus-visible::after{outline:3px solid var(--gc-acc,#c8102e);outline-offset:2px}
+.pf-excerpt{font-size:.92rem;line-height:1.5;color:var(--gc-mut,#56606b)}
+.pf-go{flex:0 0 auto;align-self:center;font-size:1.3rem;color:var(--gc-acc,#c8102e);padding:0 1rem 0 .2rem;transition:transform .2s}
+.pf-item:hover .pf-go{transform:translateX(3px)}
+.pf-note{font-size:.8rem;color:var(--gc-mut,#56606b);margin-top:1rem}
+@media(max-width:640px){.pf-item{flex-direction:column;gap:0}.pf-img{flex:none;width:100%;min-height:0;aspect-ratio:16/10}.pf-body{padding:.8rem 1rem 1rem}.pf-go{display:none}}
+</style>
+<ul class="pf-list" data-pg data-pg-item="li.pf-item" data-per="{{ site.per_page | default: 20 }}">
+{%- for w in site.data.portfolio %}
+  {%- if pf_lang == "en" %}{% assign t = w.en %}{% else %}{% assign t = w.it %}{% endif %}
+  <li class="pf-item">
+    <div class="pf-img"><img src="{{ w.img | relative_url }}" alt="{{ t.titolo | escape }}" loading="lazy"></div>
+    <div class="pf-body">
+      <span class="pf-cat">{{ t.tipo }}</span>
+      <a href="{% include url-ref.html ref=w.servizio %}" class="pf-title">{{ t.titolo }}</a>
+      <div class="pf-excerpt">{{ t.testo }}</div>
+    </div>
+    <span class="pf-go" aria-hidden="true">&rarr;</span>
+  </li>
+{%- endfor %}
+</ul>

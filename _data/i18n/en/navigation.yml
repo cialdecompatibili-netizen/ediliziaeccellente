@@ -3,6 +3,8 @@ main:
     url: /en/
   - title: "Services"
     url: /en/services/
+  - title: "Portfolio"
+    url: /en/portfolio/
   - title: "Blog"
     url: /en/blog/
   - title: "Shop"
