@@ -3,27 +3,33 @@ title: "Condominium maintenance"
 ordine: 6
 permalink: /en/services/condominium-maintenance/
 ref: servizio-manutenzioni-condominiali
+icona: "🏘️"
 lang: en
 locale: en
-excerpt: "Condominium maintenance: routine and extraordinary works on common areas, facades, stairs, roofs and balconies."
-seo_description: "Condominium maintenance: routine and extraordinary works on common areas, facades, stairs, roofs and balconies."
+excerpt: "Looking after a condominium means orderly, documented works that can be shared with the manager and owners. We offer a structured organisation and a single point of contact for every work on common areas."
+seo_description: "Condominium maintenance: Common areas, stairs, garages, courtyards and technical rooms. EDIL CRAMOR."
 ---
 
-Looking after a condominium means orderly, documented works that can be shared with the manager and owners. We work with a structured organisation to follow every stage.
+Looking after a condominium means orderly, documented works that can be shared with the manager and owners. We offer a structured organisation and a single point of contact for every work on common areas.
 
-## When you need it
-- Common areas showing signs of wear
-- Owners reporting leaks or detachments
-- The need for a report for the meeting
-- Works to plan on facades and roofs
+## Works included
+- Routine and extraordinary maintenance
+- Restoration of stairs, landings and entrance halls
+- Garage and car park maintenance
+- Restoration of technical rooms
+- Masonry and flooring repairs
+- Maintenance of courtyards and common areas
+- Restoration works on common parts
 
 ## How we work
 1. Site inspection with technical and photographic report
-2. Clear quote to present to the manager
+2. Clear quote before starting
 3. Works followed at every stage
 4. Final documentation of the works
 
-## Who it is for
-Condominiums, private clients and industry professionals. We are the go-to company for anyone who wants to renovate and enhance their property.
+## For managers and condominiums
+A single point of contact for every work on common areas: inspection, a quote to present at the meeting, works followed and final documentation.
+
+Technical activities reserved to licensed professionals and specialist works are carried out through specialised professionals.
 
 [Request a site inspection]({{ '/en/contact/' | relative_url }}){: .btn .btn--primary}

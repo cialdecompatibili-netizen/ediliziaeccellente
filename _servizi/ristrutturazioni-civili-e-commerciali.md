@@ -1,27 +1,30 @@
 ---
-title: "Ristrutturazioni civili e commerciali"
-ordine: 7
+title: "Ristrutturazioni e opere edili"
+ordine: 1
 permalink: /servizi/ristrutturazioni-civili-e-commerciali/
 ref: servizio-ristrutturazioni-civili-e-commerciali
-excerpt: "Ristrutturazioni civili e commerciali: dal sopralluogo alla completa realizzazione delle opere, per case, uffici e locali."
-seo_description: "Ristrutturazioni civili e commerciali: dal sopralluogo alla completa realizzazione delle opere, per case, uffici e locali."
+icona: "🏗️"
+excerpt: "Ristrutturiamo appartamenti, case, negozi e uffici, dal singolo ambiente all'intero immobile. Ci occupiamo delle opere edili necessarie e coordiniamo le lavorazioni specialistiche, così il cliente ha un solo interlocutore dall'inizio alla fine."
+seo_description: "Ristrutturazioni e opere edili: Ristrutturazioni complete e parziali, civili e commerciali. EDIL CRAMOR."
 ---
 
-Ristrutturare significa coordinare lavorazioni diverse mantenendo un unico responsabile. Per abitazioni e locali commerciali seguiamo il lavoro dal sopralluogo alla realizzazione completa delle opere.
+Ristrutturiamo appartamenti, case, negozi e uffici, dal singolo ambiente all'intero immobile. Ci occupiamo delle opere edili necessarie e coordiniamo le lavorazioni specialistiche, così il cliente ha un solo interlocutore dall'inizio alla fine.
 
-## Quando serve
-- Immobili da riqualificare o rifunzionalizzare
-- Locali commerciali da rinnovare
-- Impianti o finiture ormai datati
-- Spazi da riorganizzare
+## Lavorazioni comprese
+- Ristrutturazioni complete e parziali
+- Ristrutturazioni civili e commerciali
+- Demolizioni e ricostruzioni
+- Opere murarie e tramezzature
+- Intonaci, rasature e tinteggiature
+- Rifacimento pavimenti e rivestimenti
+- Ripristino e risanamento murature
 
 ## Come lavoriamo
-1. Sopralluogo e definizione degli interventi
+1. Sopralluogo con relazione tecnica e report fotografico
 2. Preventivo chiaro prima di iniziare
-3. Lavori eseguiti da maestranze qualificate
-4. Seguiamo ogni fase fino alla consegna
+3. Esecuzione dei lavori seguita in ogni fase
+4. Documentazione finale degli interventi
 
-## Per chi
-Condomini, privati e professionisti del settore. Siamo l'azienda di riferimento per chi desidera riqualificare e valorizzare il proprio patrimonio immobiliare.
+Le attività tecniche riservate a professionisti abilitati e le lavorazioni specialistiche vengono svolte attraverso figure specializzate.
 
 [Richiedi un sopralluogo]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

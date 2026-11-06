@@ -1,27 +1,29 @@
 ---
-title: "Ripristino facciate"
-ordine: 8
+title: "Rifacimento e ripristino facciate"
+ordine: 2
 permalink: /servizi/ripristino-facciate/
 ref: servizio-ripristino-facciate
-excerpt: "Ripristino facciate: recupero di intonaci, cornicioni e frontalini ammalorati, con interventi anche su fune."
-seo_description: "Ripristino facciate: recupero di intonaci, cornicioni e frontalini ammalorati, con interventi anche su fune."
+icona: "🏢"
+excerpt: "La facciata protegge l'edificio e ne definisce l'immagine. Quando intonaci e rivestimenti si degradano, interveniamo per fermare il deterioramento, rimuovere le parti ammalorate e riportare la superficie in sicurezza e in ordine."
+seo_description: "Rifacimento e ripristino facciate: Facciate, frontalini, cornicioni e balconi. EDIL CRAMOR."
 ---
 
-La facciata protegge l'edificio e ne definisce l'aspetto. Quando intonaco e rivestimenti si deteriorano, il ripristino ferma il degrado e riporta la superficie in sicurezza.
+La facciata protegge l'edificio e ne definisce l'immagine. Quando intonaci e rivestimenti si degradano, interveniamo per fermare il deterioramento, rimuovere le parti ammalorate e riportare la superficie in sicurezza e in ordine.
 
-## Quando serve
-- Intonaco che si sfarina o si stacca
-- Fessure e lesioni
-- Cornicioni e frontalini ammalorati
-- Macchie di umidità e sporco diffuso
+## Lavorazioni comprese
+- Rifacimento e riqualificazione facciate
+- Ripristino frontalini e cornicioni
+- Ripristino intonaci esterni
+- Tinteggiature esterne
+- Ripristino balconi e parapetti
+- Rimozione e ripristino di elementi ammalorati
 
 ## Come lavoriamo
-1. Verifica dello stato della facciata, anche con drone
-2. Rimozione delle parti instabili
-3. Ripristino di intonaci e finiture
-4. Lavoro in quota con ponteggio o su fune
+1. Sopralluogo con relazione tecnica e report fotografico
+2. Preventivo chiaro prima di iniziare
+3. Esecuzione dei lavori seguita in ogni fase
+4. Documentazione finale degli interventi
 
-## Per chi
-Condomini, privati e professionisti del settore. Siamo l'azienda di riferimento per chi desidera riqualificare e valorizzare il proprio patrimonio immobiliare.
+Le attività tecniche riservate a professionisti abilitati e le lavorazioni specialistiche vengono svolte attraverso figure specializzate.
 
 [Richiedi un sopralluogo]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

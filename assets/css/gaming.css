@@ -81,3 +81,17 @@
 @media(max-width:900px){.gc-hero-in,.gc-2c,.gc-det{grid-template-columns:1fr}.gc-grid,.gc-plat{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:560px){.gc-grid,.gc-plat{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){.gc *{transition:none!important}}
+
+/* SERVIZI HOME: 10 categorie con icona (card intera cliccabile), messaggio aziendale, sezione condomini */
+.ec-cats{display:grid;grid-template-columns:repeat(5,1fr);gap:1rem;margin-top:2rem}
+.ec-cat{display:flex;flex-direction:column;gap:.55rem;padding:1.2rem 1.1rem;background:#fff;border:1px solid #e3e3e3;border-radius:12px;text-decoration:none!important;color:inherit;min-height:11rem;transition:transform .2s,box-shadow .2s,border-color .2s}
+.ec-cat:hover,.ec-cat:focus-visible{transform:translateY(-3px);border-color:var(--gc-acc);box-shadow:0 10px 24px rgba(0,0,0,.09)}
+.ec-ic{display:grid;place-items:center;width:3rem;height:3rem;border-radius:50%;font-size:1.5rem;background:color-mix(in srgb,var(--gc-acc) 12%,#fff)}
+.ec-t{font-weight:700;font-size:1.05rem;line-height:1.25;color:#111}.ec-d{font-size:.9rem;line-height:1.45;color:#555}
+.ec-msg{max-width:860px;text-align:center}.ec-msg .gc-h2{font-size:clamp(1.5rem,2.2vw + .8rem,2.3rem)}
+.ec-cond{display:grid;grid-template-columns:1.3fr 1fr;gap:2rem;align-items:center;padding:2rem;border:1px solid #e3e3e3;border-radius:14px;background:color-mix(in srgb,var(--gc-acc) 6%,#fff)}
+.ec-ck{list-style:none;margin:0;padding:0;display:grid;gap:.7rem}.ec-ck li{padding:.8rem 1rem;background:#fff;border:1px solid #e3e3e3;border-radius:10px;font-weight:600}
+.ec-ck li::before{content:"\2713";color:var(--gc-acc);margin-right:.6rem;font-weight:800}
+@media(max-width:1100px){.ec-cats{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:760px){.ec-cats{grid-template-columns:repeat(2,1fr)}.ec-cond{grid-template-columns:1fr;padding:1.3rem}}
+@media(max-width:480px){.ec-cats{grid-template-columns:1fr}.ec-cat{min-height:0}}

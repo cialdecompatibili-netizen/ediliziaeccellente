@@ -1,27 +1,30 @@
 ---
-title: "Relazioni tecniche e report fotografici"
-ordine: 9
+title: "Sopralluoghi, ispezioni e documentazione tecnica"
+ordine: 10
 permalink: /servizi/relazioni-tecniche-e-report-fotografici/
 ref: servizio-relazioni-tecniche-e-report-fotografici
-excerpt: "Relazioni tecniche e report fotografici per condomini, privati e professionisti: documentazione chiara dello stato dei luoghi."
-seo_description: "Relazioni tecniche e report fotografici per condomini, privati e professionisti: documentazione chiara dello stato dei luoghi."
+icona: "📋"
+excerpt: "Documentiamo lo stato dell'immobile prima, durante e dopo gli interventi. Sopralluoghi, anche con drone, relazioni descrittive e report fotografici utili a condomini, amministratori e professionisti."
+seo_description: "Sopralluoghi, ispezioni e documentazione tecnica: Sopralluoghi, anche con drone, relazioni e report fotografici. EDIL CRAMOR."
 ---
 
-Una buona relazione tecnica, con foto ordinate, rende chiaro lo stato di un immobile e rende più semplice decidere cosa fare. È utile per assemblee, preventivi e confronti con i professionisti.
+Documentiamo lo stato dell'immobile prima, durante e dopo gli interventi. Sopralluoghi, anche con drone, relazioni descrittive e report fotografici utili a condomini, amministratori e professionisti.
 
-## Quando serve
-- Serve un documento da presentare in assemblea
-- Occorre descrivere un difetto o un degrado
-- Si vuole confrontare più preventivi sulla stessa base
-- Si deve documentare il prima e il dopo dei lavori
+## Lavorazioni comprese
+- Sopralluoghi tecnici
+- Ispezioni e verifiche visive degli immobili
+- Relazioni tecniche descrittive
+- Report fotografici
+- Documentazione dello stato dei luoghi
+- Sopralluoghi e ispezioni con drone
+- Documentazione fotografica prima, durante e dopo gli interventi
 
 ## Come lavoriamo
-1. Sopralluogo e rilievo fotografico
-2. Descrizione tecnica dei problemi riscontrati
-3. Indicazione degli interventi consigliati
-4. Consegna del report in forma chiara e ordinata
+1. Sopralluogo con relazione tecnica e report fotografico
+2. Preventivo chiaro prima di iniziare
+3. Esecuzione dei lavori seguita in ogni fase
+4. Documentazione finale degli interventi
 
-## Per chi
-Condomini, privati e professionisti del settore. Siamo l'azienda di riferimento per chi desidera riqualificare e valorizzare il proprio patrimonio immobiliare.
+Le attività tecniche riservate a professionisti abilitati e le lavorazioni specialistiche vengono svolte attraverso figure specializzate.
 
 [Richiedi un sopralluogo]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

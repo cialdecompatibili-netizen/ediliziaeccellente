@@ -1,27 +1,29 @@
 ---
-title: "Manutenzione coperture, tetti e gronde"
-ordine: 5
+title: "Tetti, coperture e gronde"
+ordine: 4
 permalink: /servizi/manutenzione-coperture-tetti-e-gronde/
 ref: servizio-manutenzione-coperture-tetti-e-gronde
-excerpt: "Manutenzione di coperture, tetti e gronde: controllo, pulizia e riparazioni per proteggere l'edificio dalle infiltrazioni."
-seo_description: "Manutenzione di coperture, tetti e gronde: controllo, pulizia e riparazioni per proteggere l'edificio dalle infiltrazioni."
+icona: "🏠"
+excerpt: "Un tetto in buone condizioni protegge l'intero edificio. Eseguiamo manutenzioni e riparazioni su coperture, gronde e pluviali, per prevenire infiltrazioni e danni più costosi."
+seo_description: "Tetti, coperture e gronde: Rifacimento, riparazione e manutenzione di tetti e gronde. EDIL CRAMOR."
 ---
 
-La copertura è la prima difesa dell'edificio contro pioggia e vento. Una manutenzione periodica di tetto e gronde evita infiltrazioni e danni più costosi alle parti sottostanti.
+Un tetto in buone condizioni protegge l'intero edificio. Eseguiamo manutenzioni e riparazioni su coperture, gronde e pluviali, per prevenire infiltrazioni e danni più costosi.
 
-## Quando serve
-- Tegole spostate, rotte o mancanti
-- Gronde e pluviali ostruiti da foglie e detriti
-- Guaine o lattonerie deteriorate
-- Macchie di infiltrazione nei sottotetti
+## Lavorazioni comprese
+- Rifacimento e manutenzione coperture
+- Riparazione tetti
+- Manutenzione gronde e pluviali
+- Ripristino converse e scossaline
+- Riparazione infiltrazioni dalle coperture
+- Interventi di manutenzione ordinaria e straordinaria
 
 ## Come lavoriamo
-1. Controllo della copertura, anche con drone
-2. Pulizia di gronde e pluviali
-3. Riparazione o sostituzione degli elementi danneggiati
-4. Relazione con foto dei punti trattati
+1. Sopralluogo con relazione tecnica e report fotografico
+2. Preventivo chiaro prima di iniziare
+3. Esecuzione dei lavori seguita in ogni fase
+4. Documentazione finale degli interventi
 
-## Per chi
-Condomini, privati e professionisti del settore. Siamo l'azienda di riferimento per chi desidera riqualificare e valorizzare il proprio patrimonio immobiliare.
+Le attività tecniche riservate a professionisti abilitati e le lavorazioni specialistiche vengono svolte attraverso figure specializzate.
 
 [Richiedi un sopralluogo]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

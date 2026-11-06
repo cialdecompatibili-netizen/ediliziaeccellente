@@ -1,27 +1,30 @@
 ---
 title: "Rifacimento terrazzi e balconi"
-ordine: 3
+ordine: 5
 permalink: /servizi/rifacimento-terrazzi-e-balconi/
 ref: servizio-rifacimento-terrazzi-e-balconi
-excerpt: "Rifacimento di terrazzi e balconi: ripristino di solette, frontalini, ringhiere e pavimentazioni, con impermeabilizzazione a regola d'arte."
-seo_description: "Rifacimento di terrazzi e balconi: ripristino di solette, frontalini, ringhiere e pavimentazioni, con impermeabilizzazione a regola d'arte."
+icona: "🧱"
+excerpt: "Terrazzi e balconi sono tra le parti più esposte agli agenti atmosferici. Rifacciamo l'intera stratigrafia, dal massetto alla finitura, per garantire durata, sicurezza e tenuta all'acqua."
+seo_description: "Rifacimento terrazzi e balconi: Massetti, pavimentazioni, parapetti e impermeabilizzazioni. EDIL CRAMOR."
 ---
 
-Terrazzi e balconi sono tra le parti più esposte di un edificio: acqua, sole e sbalzi di temperatura li consumano nel tempo. Rifarli bene significa agire su tutta la stratigrafia, non solo cambiare la pavimentazione.
+Terrazzi e balconi sono tra le parti più esposte agli agenti atmosferici. Rifacciamo l'intera stratigrafia, dal massetto alla finitura, per garantire durata, sicurezza e tenuta all'acqua.
 
-## Quando serve
-- Piastrelle sollevate o fessurate
-- Macchie e umidità nel soffitto sottostante
-- Frontalini e solette con calcestruzzo ammalorato
-- Ringhiere arrugginite o poco stabili
+## Lavorazioni comprese
+- Rifacimento completo terrazzi e balconi
+- Demolizione e ricostruzione massetti
+- Rifacimento pavimentazioni
+- Impermeabilizzazioni
+- Ripristino frontalini e sottobalconi
+- Ripristino parapetti e ringhiere
+- Sostituzione soglie e gocciolatoi
 
 ## Come lavoriamo
-1. Rimozione della pavimentazione e verifica del supporto
-2. Ripristino di solette e frontalini
-3. Impermeabilizzazione e posa del nuovo rivestimento
-4. Sistemazione di ringhiere e finiture
+1. Sopralluogo con relazione tecnica e report fotografico
+2. Preventivo chiaro prima di iniziare
+3. Esecuzione dei lavori seguita in ogni fase
+4. Documentazione finale degli interventi
 
-## Per chi
-Condomini, privati e professionisti del settore. Siamo l'azienda di riferimento per chi desidera riqualificare e valorizzare il proprio patrimonio immobiliare.
+Le attività tecniche riservate a professionisti abilitati e le lavorazioni specialistiche vengono svolte attraverso figure specializzate.
 
 [Richiedi un sopralluogo]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

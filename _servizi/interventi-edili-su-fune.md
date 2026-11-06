@@ -1,27 +1,30 @@
 ---
 title: "Interventi edili su fune"
-ordine: 2
+ordine: 7
 permalink: /servizi/interventi-edili-su-fune/
 ref: servizio-interventi-edili-su-fune
-excerpt: "Interventi edili su fune per facciate e pareti alte: lavori in quota senza ponteggio, eseguiti da personale qualificato."
-seo_description: "Interventi edili su fune per facciate e pareti alte: lavori in quota senza ponteggio, eseguiti da personale qualificato."
+icona: "🧗"
+excerpt: "Lavoriamo in quota con accesso su fune, dove un ponteggio sarebbe troppo lungo o costoso da montare. Il metodo è rapido, mirato e adatto agli interventi localizzati su edifici di ogni altezza."
+seo_description: "Interventi edili su fune: Facciate, cornicioni e gronde in quota, senza ponteggi. EDIL CRAMOR."
 ---
 
-I lavori su fune permettono di raggiungere facciate, vani scala, camini e punti difficili senza montare un ponteggio. Sono utili quando serve un intervento mirato, rapido o in spazi dove l'impalcatura è poco pratica.
+Lavoriamo in quota con accesso su fune, dove un ponteggio sarebbe troppo lungo o costoso da montare. Il metodo è rapido, mirato e adatto agli interventi localizzati su edifici di ogni altezza.
 
-## Quando serve
-- Piccoli ripristini in quota su facciate e frontalini
-- Controllo di lesioni, distacchi e infiltrazioni
-- Pulizia e trattamenti di pareti alte
-- Interventi urgenti dove il ponteggio sarebbe sproporzionato
+## Lavorazioni comprese
+- Ripristino facciate mediante accesso su fune
+- Ripristino frontalini e cornicioni
+- Manutenzione gronde e pluviali
+- Sigillature e impermeabilizzazioni
+- Ripristino intonaci
+- Interventi localizzati in quota
+- Messa in sicurezza di elementi pericolanti
 
 ## Come lavoriamo
-1. Verifica del punto da raggiungere e della modalità di accesso
-2. Operatori formati al lavoro in quota
-3. Esecuzione dell'intervento con le attrezzature adatte
-4. Documentazione fotografica del lavoro svolto
+1. Sopralluogo con relazione tecnica e report fotografico
+2. Preventivo chiaro prima di iniziare
+3. Esecuzione dei lavori seguita in ogni fase
+4. Documentazione finale degli interventi
 
-## Per chi
-Condomini, privati e professionisti del settore. Siamo l'azienda di riferimento per chi desidera riqualificare e valorizzare il proprio patrimonio immobiliare.
+Le attività tecniche riservate a professionisti abilitati e le lavorazioni specialistiche vengono svolte attraverso figure specializzate.
 
 [Richiedi un sopralluogo]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

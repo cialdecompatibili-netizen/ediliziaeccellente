@@ -1,29 +1,32 @@
 ---
 title: "Terrace and balcony renovation"
-ordine: 3
+ordine: 5
 permalink: /en/services/terrace-and-balcony-renovation/
 ref: servizio-rifacimento-terrazzi-e-balconi
+icona: "🧱"
 lang: en
 locale: en
-excerpt: "Terrace and balcony renovation: restoration of slabs, balcony edges, railings and flooring, with proper waterproofing."
-seo_description: "Terrace and balcony renovation: restoration of slabs, balcony edges, railings and flooring, with proper waterproofing."
+excerpt: "Terraces and balconies are among the parts most exposed to the weather. We rebuild the whole layer structure, from screed to finish, for durability, safety and water tightness."
+seo_description: "Terrace and balcony renovation: Screeds, flooring, parapets and waterproofing. EDIL CRAMOR."
 ---
 
-Terraces and balconies are among the most exposed parts of a building: water, sun and temperature swings wear them down over time. Doing the job properly means working on the whole build-up, not just replacing the flooring.
+Terraces and balconies are among the parts most exposed to the weather. We rebuild the whole layer structure, from screed to finish, for durability, safety and water tightness.
 
-## When you need it
-- Raised or cracked tiles
-- Stains and damp on the ceiling below
-- Balcony edges and slabs with deteriorated concrete
-- Rusty or unsteady railings
+## Works included
+- Complete renovation of terraces and balconies
+- Demolition and rebuilding of screeds
+- New flooring
+- Waterproofing
+- Restoration of balcony edges and soffits
+- Restoration of parapets and railings
+- Replacement of thresholds and drip edges
 
 ## How we work
-1. Removal of the flooring and check of the substrate
-2. Repair of slabs and balcony edges
-3. Waterproofing and laying of the new finish
-4. Work on railings and finishes
+1. Site inspection with technical and photographic report
+2. Clear quote before starting
+3. Works followed at every stage
+4. Final documentation of the works
 
-## Who it is for
-Condominiums, private clients and industry professionals. We are the go-to company for anyone who wants to renovate and enhance their property.
+Technical activities reserved to licensed professionals and specialist works are carried out through specialised professionals.
 
 [Request a site inspection]({{ '/en/contact/' | relative_url }}){: .btn .btn--primary}

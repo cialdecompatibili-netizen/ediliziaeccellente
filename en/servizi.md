@@ -6,7 +6,7 @@ author_profile: false
 ref: servizi
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: 15alr2i
 permalink: /en/services/
 ---
@@ -24,3 +24,5 @@ Works for condominiums, private clients and industry professionals: from the sit
 4. **Execution**: we follow every stage of the works.
 
 [Request a site inspection]({{ '/en/contact/' | relative_url }}){: .btn .btn--primary}
+
+*Technical activities reserved to licensed professionals and specialist works are carried out through specialised professionals.*

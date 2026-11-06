@@ -1,29 +1,31 @@
 ---
-title: "Facade restoration"
-ordine: 8
+title: "Facade renewal and restoration"
+ordine: 2
 permalink: /en/services/facade-restoration/
 ref: servizio-ripristino-facciate
+icona: "🏢"
 lang: en
 locale: en
-excerpt: "Facade restoration: recovery of deteriorated plaster, cornices and balcony edges, including rope-access work."
-seo_description: "Facade restoration: recovery of deteriorated plaster, cornices and balcony edges, including rope-access work."
+excerpt: "The facade protects the building and defines its look. When plaster and cladding deteriorate, we step in to stop the decay, remove damaged parts and make the surface safe and tidy again."
+seo_description: "Facade renewal and restoration: Facades, balcony edges, cornices and balconies. EDIL CRAMOR."
 ---
 
-The facade protects the building and defines its look. When plaster and cladding deteriorate, restoration stops the decay and makes the surface safe again.
+The facade protects the building and defines its look. When plaster and cladding deteriorate, we step in to stop the decay, remove damaged parts and make the surface safe and tidy again.
 
-## When you need it
-- Plaster that crumbles or comes away
-- Cracks and fissures
-- Deteriorated cornices and balcony edges
-- Damp stains and widespread dirt
+## Works included
+- Facade renewal and upgrading
+- Restoration of balcony edges and cornices
+- Restoration of external plaster
+- External painting
+- Restoration of balconies and parapets
+- Removal and repair of deteriorated elements
 
 ## How we work
-1. Inspection of the facade, drone included
-2. Removal of unstable parts
-3. Restoration of plaster and finishes
-4. Work at height with scaffolding or rope access
+1. Site inspection with technical and photographic report
+2. Clear quote before starting
+3. Works followed at every stage
+4. Final documentation of the works
 
-## Who it is for
-Condominiums, private clients and industry professionals. We are the go-to company for anyone who wants to renovate and enhance their property.
+Technical activities reserved to licensed professionals and specialist works are carried out through specialised professionals.
 
 [Request a site inspection]({{ '/en/contact/' | relative_url }}){: .btn .btn--primary}

@@ -3,25 +3,31 @@ title: "Manutenzioni condominiali"
 ordine: 6
 permalink: /servizi/manutenzioni-condominiali/
 ref: servizio-manutenzioni-condominiali
-excerpt: "Manutenzioni condominiali: interventi ordinari e straordinari su parti comuni, facciate, scale, coperture e balconi."
-seo_description: "Manutenzioni condominiali: interventi ordinari e straordinari su parti comuni, facciate, scale, coperture e balconi."
+icona: "🏘️"
+excerpt: "Gestire la manutenzione di un condominio richiede interventi ordinati, documentati e condivisibili con amministratore e condomini. Offriamo un'organizzazione strutturata e un unico interlocutore per ogni intervento sulle parti comuni."
+seo_description: "Manutenzioni condominiali: Parti comuni, scale, garage, cortili e locali tecnici. EDIL CRAMOR."
 ---
 
-Gestire la manutenzione di un condominio richiede interventi ordinati, documentati e condivisibili con amministratore e condomini. Lavoriamo con un'organizzazione strutturata per seguire ogni fase.
+Gestire la manutenzione di un condominio richiede interventi ordinati, documentati e condivisibili con amministratore e condomini. Offriamo un'organizzazione strutturata e un unico interlocutore per ogni intervento sulle parti comuni.
 
-## Quando serve
-- Parti comuni che mostrano segni di degrado
-- Segnalazioni dei condomini su infiltrazioni o distacchi
-- Necessità di una relazione per l'assemblea
-- Interventi da pianificare su facciate e coperture
+## Lavorazioni comprese
+- Manutenzioni ordinarie e straordinarie
+- Ripristino scale, pianerottoli e androni
+- Manutenzione garage e autorimesse
+- Ripristino locali tecnici
+- Riparazioni murarie e pavimentazioni
+- Manutenzione cortili e aree comuni
+- Interventi di ripristino su parti condominiali
 
 ## Come lavoriamo
 1. Sopralluogo con relazione tecnica e report fotografico
-2. Preventivo chiaro da presentare all'amministratore
+2. Preventivo chiaro prima di iniziare
 3. Esecuzione dei lavori seguita in ogni fase
 4. Documentazione finale degli interventi
 
-## Per chi
-Condomini, privati e professionisti del settore. Siamo l'azienda di riferimento per chi desidera riqualificare e valorizzare il proprio patrimonio immobiliare.
+## Per amministratori e condomini
+Un unico interlocutore per ogni intervento sulle parti comuni: sopralluogo, preventivo da presentare in assemblea, lavori seguiti e documentazione finale.
+
+Le attività tecniche riservate a professionisti abilitati e le lavorazioni specialistiche vengono svolte attraverso figure specializzate.
 
 [Richiedi un sopralluogo]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

@@ -1,27 +1,29 @@
 ---
-title: "Impermeabilizzazioni"
-ordine: 4
+title: "Impermeabilizzazioni e infiltrazioni"
+ordine: 3
 permalink: /servizi/impermeabilizzazioni/
 ref: servizio-impermeabilizzazioni
-excerpt: "Impermeabilizzazioni di terrazzi, coperture, balconi e fondazioni: stop alle infiltrazioni con soluzioni adatte a ogni supporto."
-seo_description: "Impermeabilizzazioni di terrazzi, coperture, balconi e fondazioni: stop alle infiltrazioni con soluzioni adatte a ogni supporto."
+icona: "💧"
+excerpt: "Individuiamo l'origine delle infiltrazioni e risolviamo il problema alla radice, con la soluzione impermeabilizzante più adatta alla superficie: guaine, impermeabilizzazioni liquide o ripristini localizzati."
+seo_description: "Impermeabilizzazioni e infiltrazioni: Terrazzi, lastrici solari, guaine e infiltrazioni. EDIL CRAMOR."
 ---
 
-Un'infiltrazione raramente si risolve da sola: l'acqua entra, si diffonde e danneggia intonaci, solai e impianti. L'impermeabilizzazione crea una barriera continua che protegge la struttura.
+Individuiamo l'origine delle infiltrazioni e risolviamo il problema alla radice, con la soluzione impermeabilizzante più adatta alla superficie: guaine, impermeabilizzazioni liquide o ripristini localizzati.
 
-## Quando serve
-- Macchie di umidità e muffa su soffitti e pareti
-- Distacco di intonaco e vernice
-- Acqua che filtra dopo le piogge
-- Pavimentazioni di terrazzi che trattengono acqua
+## Lavorazioni comprese
+- Impermeabilizzazione terrazzi e balconi
+- Impermeabilizzazione lastrici solari
+- Ricerca e risoluzione infiltrazioni
+- Rifacimento guaine impermeabilizzanti
+- Impermeabilizzazioni liquide
+- Sigillature e ripristini localizzati
 
 ## Come lavoriamo
-1. Individuazione della causa dell'infiltrazione
-2. Preparazione del supporto
-3. Posa del sistema impermeabile adatto alla superficie
-4. Controllo dei raccordi e dei punti critici
+1. Sopralluogo con relazione tecnica e report fotografico
+2. Preventivo chiaro prima di iniziare
+3. Esecuzione dei lavori seguita in ogni fase
+4. Documentazione finale degli interventi
 
-## Per chi
-Condomini, privati e professionisti del settore. Siamo l'azienda di riferimento per chi desidera riqualificare e valorizzare il proprio patrimonio immobiliare.
+Le attività tecniche riservate a professionisti abilitati e le lavorazioni specialistiche vengono svolte attraverso figure specializzate.
 
 [Richiedi un sopralluogo]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

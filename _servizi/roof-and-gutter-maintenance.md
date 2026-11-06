@@ -1,29 +1,31 @@
 ---
-title: "Maintenance of roofs, roofing and gutters"
-ordine: 5
+title: "Roofs, roofing and gutters"
+ordine: 4
 permalink: /en/services/roof-and-gutter-maintenance/
 ref: servizio-manutenzione-coperture-tetti-e-gronde
+icona: "🏠"
 lang: en
 locale: en
-excerpt: "Maintenance of roofs, roofing and gutters: inspection, cleaning and repairs to protect the building from leaks."
-seo_description: "Maintenance of roofs, roofing and gutters: inspection, cleaning and repairs to protect the building from leaks."
+excerpt: "A roof in good condition protects the whole building. We carry out maintenance and repairs on roofing, gutters and downpipes, to prevent leaks and costlier damage."
+seo_description: "Roofs, roofing and gutters: Renewal, repair and maintenance of roofs and gutters. EDIL CRAMOR."
 ---
 
-The roof is the building's first defence against rain and wind. Regular maintenance of roof and gutters prevents leaks and more costly damage to what lies beneath.
+A roof in good condition protects the whole building. We carry out maintenance and repairs on roofing, gutters and downpipes, to prevent leaks and costlier damage.
 
-## When you need it
-- Displaced, broken or missing tiles
-- Gutters and downpipes blocked by leaves and debris
-- Deteriorated membranes or flashings
-- Leak stains in attics
+## Works included
+- Roof renewal and maintenance
+- Roof repairs
+- Gutter and downpipe maintenance
+- Repair of flashings
+- Repair of leaks from roofing
+- Routine and extraordinary maintenance
 
 ## How we work
-1. Inspection of the roof, drone included
-2. Cleaning of gutters and downpipes
-3. Repair or replacement of damaged elements
-4. Report with photos of the areas treated
+1. Site inspection with technical and photographic report
+2. Clear quote before starting
+3. Works followed at every stage
+4. Final documentation of the works
 
-## Who it is for
-Condominiums, private clients and industry professionals. We are the go-to company for anyone who wants to renovate and enhance their property.
+Technical activities reserved to licensed professionals and specialist works are carried out through specialised professionals.
 
 [Request a site inspection]({{ '/en/contact/' | relative_url }}){: .btn .btn--primary}

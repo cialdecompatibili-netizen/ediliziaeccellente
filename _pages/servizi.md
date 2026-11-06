@@ -7,9 +7,9 @@ author_profile: false
 seo_description: "Edilizia Eccellente: messe in sicurezza, lavori su fune, terrazzi e balconi, impermeabilizzazioni, coperture, facciate, ristrutturazioni e sopralluoghi con drone."
 ---
 
-Interventi per condomini, privati e professionisti del settore: dal sopralluogo alla completa realizzazione delle opere.
+Interventi per condomini, privati, aziende e professionisti del settore: un unico interlocutore dalla valutazione iniziale al completamento delle opere.
 
-## Per condomini, privati e professionisti del settore
+## Per condomini, privati, aziende e professionisti del settore
 
 {% include servizi-righe.html cta="Scopri il servizio" %}
 
@@ -20,3 +20,5 @@ Interventi per condomini, privati e professionisti del settore: dal sopralluogo 
 4. **Realizzazione**: seguiamo ogni fase delle opere.
 
 [Richiedi un sopralluogo]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}
+
+*Le attività tecniche riservate a professionisti abilitati e le lavorazioni specialistiche vengono svolte attraverso figure specializzate.*
