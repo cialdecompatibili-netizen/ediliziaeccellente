@@ -42,9 +42,9 @@ search: true
 
 # SEO globale
 author:
-  name: "Nome autore"
+  name: "EDIL CRAMOR"
   avatar: "/assets/images/autore-segnaposto.svg"
-  bio: "Scrivi qui una breve presentazione dell'autore o del sito: chi sei, di cosa ti occupi e come contattarti."
+  bio: "Interventi edili per condomini, privati e professionisti del settore: un unico interlocutore dalla valutazione iniziale al completamento delle opere."
   links:
     - label: "Contatti"
       icon: "fas fa-fw fa-envelope"
