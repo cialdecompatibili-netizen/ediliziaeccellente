@@ -4,6 +4,7 @@ ordine: 7
 permalink: /en/services/rope-access-building-works/
 ref: servizio-interventi-edili-su-fune
 icona: "🧗"
+immagine: "/assets/images/servizi/interventi-edili-su-fune.webp"
 lang: en
 locale: en
 excerpt: "We work at height with rope access, where scaffolding would take too long or cost too much. The method is fast, targeted and suited to localised works on buildings of any height."

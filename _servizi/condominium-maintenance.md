@@ -4,6 +4,7 @@ ordine: 6
 permalink: /en/services/condominium-maintenance/
 ref: servizio-manutenzioni-condominiali
 icona: "🏘️"
+immagine: "/assets/images/servizi/manutenzioni-condominiali.webp"
 lang: en
 locale: en
 excerpt: "Looking after a condominium means orderly, documented works that can be shared with the manager and owners. We offer a structured organisation and a single point of contact for every work on common areas."

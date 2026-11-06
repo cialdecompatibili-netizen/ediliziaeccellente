@@ -4,6 +4,7 @@ ordine: 5
 permalink: /en/services/terrace-and-balcony-renovation/
 ref: servizio-rifacimento-terrazzi-e-balconi
 icona: "🧱"
+immagine: "/assets/images/servizi/rifacimento-terrazzi-e-balconi.webp"
 lang: en
 locale: en
 excerpt: "Terraces and balconies are among the parts most exposed to the weather. We rebuild the whole layer structure, from screed to finish, for durability, safety and water tightness."

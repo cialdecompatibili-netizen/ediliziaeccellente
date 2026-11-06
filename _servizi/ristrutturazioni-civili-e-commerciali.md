@@ -4,6 +4,7 @@ ordine: 1
 permalink: /servizi/ristrutturazioni-civili-e-commerciali/
 ref: servizio-ristrutturazioni-civili-e-commerciali
 icona: "🏗️"
+immagine: "/assets/images/servizi/ristrutturazioni-civili-e-commerciali.webp"
 excerpt: "Ristrutturiamo appartamenti, case, negozi e uffici, dal singolo ambiente all'intero immobile. Ci occupiamo delle opere edili necessarie e coordiniamo le lavorazioni specialistiche, così il cliente ha un solo interlocutore dall'inizio alla fine."
 seo_description: "Ristrutturazioni e opere edili: Ristrutturazioni complete e parziali, civili e commerciali. EDIL CRAMOR."
 ---

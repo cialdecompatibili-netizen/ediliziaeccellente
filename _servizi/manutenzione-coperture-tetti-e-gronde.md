@@ -4,6 +4,7 @@ ordine: 4
 permalink: /servizi/manutenzione-coperture-tetti-e-gronde/
 ref: servizio-manutenzione-coperture-tetti-e-gronde
 icona: "🏠"
+immagine: "/assets/images/servizi/manutenzione-coperture-tetti-e-gronde.webp"
 excerpt: "Un tetto in buone condizioni protegge l'intero edificio. Eseguiamo manutenzioni e riparazioni su coperture, gronde e pluviali, per prevenire infiltrazioni e danni più costosi."
 seo_description: "Tetti, coperture e gronde: Rifacimento, riparazione e manutenzione di tetti e gronde. EDIL CRAMOR."
 ---

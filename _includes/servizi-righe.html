@@ -15,6 +15,6 @@
 {% assign fotos = site.data.foto %}
 <div class="sr">
 {% assign n = 0 %}
-{% for s in all %}{% assign is_en = false %}{% if s.lang == "en" %}{% assign is_en = true %}{% endif %}{% assign want_en = false %}{% if include.lang == "en" %}{% assign want_en = true %}{% endif %}{% if is_en == want_en %}{% assign fi = n | modulo: fotos.size %}{% assign n = n | plus: 1 %}<a class="sr-i" href="{{ s.url | relative_url }}"><span class="sr-img"><img src="{{ '/assets/foto/' | append: fotos[fi].f | append: '.jpg' | relative_url }}" alt="{{ s.title }}" loading="lazy"></span><span class="sr-b"><span class="sr-t">{{ s.title }}</span><span class="sr-d">{{ s.excerpt | strip_html | strip | truncatewords: 35 }}</span><span class="sr-m">{{ include.cta }} &rarr;</span></span></a>{% endif %}
+{% for s in all %}{% assign is_en = false %}{% if s.lang == "en" %}{% assign is_en = true %}{% endif %}{% assign want_en = false %}{% if include.lang == "en" %}{% assign want_en = true %}{% endif %}{% if is_en == want_en %}{% assign fi = n | modulo: fotos.size %}{% assign n = n | plus: 1 %}<a class="sr-i" href="{{ s.url | relative_url }}"><span class="sr-img"><img src="{% if s.immagine %}{{ s.immagine | relative_url }}{% else %}{{ '/assets/foto/' | append: fotos[fi].f | append: '.jpg' | relative_url }}{% endif %}" alt="{{ s.title }}" loading="lazy"></span><span class="sr-b"><span class="sr-t">{{ s.title }}</span><span class="sr-d">{{ s.excerpt | strip_html | strip | truncatewords: 35 }}</span><span class="sr-m">{{ include.cta }} &rarr;</span></span></a>{% endif %}
 {% endfor %}
 </div>

@@ -4,6 +4,7 @@ ordine: 10
 permalink: /servizi/relazioni-tecniche-e-report-fotografici/
 ref: servizio-relazioni-tecniche-e-report-fotografici
 icona: "📋"
+immagine: "/assets/images/servizi/relazioni-tecniche-e-report-fotografici.webp"
 excerpt: "Documentiamo lo stato dell'immobile prima, durante e dopo gli interventi. Sopralluoghi, anche con drone, relazioni descrittive e report fotografici utili a condomini, amministratori e professionisti."
 seo_description: "Sopralluoghi, ispezioni e documentazione tecnica: Sopralluoghi, anche con drone, relazioni e report fotografici. EDIL CRAMOR."
 ---

@@ -4,6 +4,7 @@ ordine: 8
 permalink: /en/services/technical-rope-access-surveys/
 ref: servizio-sopralluoghi-tecnici-su-fune
 icona: "🔍"
+immagine: "/assets/images/servizi/sopralluoghi-tecnici-su-fune.webp"
 lang: en
 locale: en
 excerpt: "We inspect up close the parts of the building that are hard to reach, without scaffolding. We identify detachments, cracks and critical points and document them with photos and a descriptive report."

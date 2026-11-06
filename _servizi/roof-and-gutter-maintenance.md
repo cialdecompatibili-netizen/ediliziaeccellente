@@ -4,6 +4,7 @@ ordine: 4
 permalink: /en/services/roof-and-gutter-maintenance/
 ref: servizio-manutenzione-coperture-tetti-e-gronde
 icona: "🏠"
+immagine: "/assets/images/servizi/manutenzione-coperture-tetti-e-gronde.webp"
 lang: en
 locale: en
 excerpt: "A roof in good condition protects the whole building. We carry out maintenance and repairs on roofing, gutters and downpipes, to prevent leaks and costlier damage."

@@ -4,6 +4,7 @@ ordine: 1
 permalink: /en/services/residential-and-commercial-renovation/
 ref: servizio-ristrutturazioni-civili-e-commerciali
 icona: "🏗️"
+immagine: "/assets/images/servizi/ristrutturazioni-civili-e-commerciali.webp"
 lang: en
 locale: en
 excerpt: "We renovate flats, houses, shops and offices, from a single room to the whole building. We carry out the required building works and coordinate specialist trades, so the client has a single point of contact from start to finish."

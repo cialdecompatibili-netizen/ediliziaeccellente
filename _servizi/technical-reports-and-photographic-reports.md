@@ -4,6 +4,7 @@ ordine: 10
 permalink: /en/services/technical-reports-and-photographic-reports/
 ref: servizio-relazioni-tecniche-e-report-fotografici
 icona: "📋"
+immagine: "/assets/images/servizi/relazioni-tecniche-e-report-fotografici.webp"
 lang: en
 locale: en
 excerpt: "We document the state of the property before, during and after the works. Surveys, also by drone, descriptive reports and photo reports useful for condominiums, managers and professionals."

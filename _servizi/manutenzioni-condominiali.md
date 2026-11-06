@@ -4,6 +4,7 @@ ordine: 6
 permalink: /servizi/manutenzioni-condominiali/
 ref: servizio-manutenzioni-condominiali
 icona: "🏘️"
+immagine: "/assets/images/servizi/manutenzioni-condominiali.webp"
 excerpt: "Gestire la manutenzione di un condominio richiede interventi ordinati, documentati e condivisibili con amministratore e condomini. Offriamo un'organizzazione strutturata e un unico interlocutore per ogni intervento sulle parti comuni."
 seo_description: "Manutenzioni condominiali: Parti comuni, scale, garage, cortili e locali tecnici. EDIL CRAMOR."
 ---

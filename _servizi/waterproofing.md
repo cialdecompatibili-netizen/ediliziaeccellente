@@ -4,6 +4,7 @@ ordine: 3
 permalink: /en/services/waterproofing/
 ref: servizio-impermeabilizzazioni
 icona: "💧"
+immagine: "/assets/images/servizi/impermeabilizzazioni.webp"
 lang: en
 locale: en
 excerpt: "We trace the source of leaks and fix the problem at its root, with the waterproofing solution best suited to the surface: membranes, liquid waterproofing or localised repairs."
